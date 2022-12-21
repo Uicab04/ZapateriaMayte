@@ -1,0 +1,8 @@
+modifique, scripts, reservacion, y index
+y files/guardarProducto
+
+alt se edita varias coasa al mismo teimpo
+
+shift + alt + tecla abajo copea y pega abajo completo
+
+sistema CRUD 
